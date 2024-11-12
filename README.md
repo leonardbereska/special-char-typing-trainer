@@ -27,13 +27,7 @@ git clone https://github.com/yourusername/special-char-typing-trainer.git
 cd special-char-typing-trainer
 ```
 
-2. Create a virtual environment (recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install requirements:
+2. Install requirements:
 ```bash
 pip install -r requirements.txt
 ```
