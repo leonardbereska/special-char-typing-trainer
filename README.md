@@ -57,12 +57,7 @@ python typing_trainer.py
 
 ### Statistics Visualization
 
-View your progress and performance metrics:
-```bash
-python typing_trainer.py --stats
-```
-
-For detailed statistical analysis:
+Visualize your performance:
 ```bash
 python visualize_stats.py
 ```
