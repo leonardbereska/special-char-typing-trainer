@@ -22,7 +22,7 @@ A simple command-line application designed to improve your typing speed and accu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/special-char-typing-trainer.git
+git clone https://github.com/leonardbereska/special-char-typing-trainer.git
 cd special-char-typing-trainer
 ```
 
