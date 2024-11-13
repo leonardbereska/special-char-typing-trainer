@@ -1,19 +1,18 @@
 # Special Character Typing Trainer 🎯⌨️
 
-A command-line application designed to improve your typing speed and accuracy with special characters. Features two modes - regular (peek) and pro (no-peek) - to help you master those tricky characters like `!@#$%^&*()_+}{][":';?></.,=-~``.
+A simple command-line application designed to improve your typing speed and accuracy with special characters. Features two modes - regular (peek) and pro (no-peek) - to help you master those tricky characters like `!@#$%^&*()_+}{][":';?></.,=-~``.
 
 ## Features
 
 - 🔄 Two practice modes:
   - **Regular Mode**: Practice with keyboard visibility
-  - **Pro Mode**: Touch typing practice with fun challenges
+  - **Pro Mode**: Touch typing practice without looking
 - 📊 Comprehensive statistics tracking:
-  - Per-character error rates
-  - Typing speed measurements
-  - Progress tracking over time
+  - Per-character error
+  - Typing speed
 - 🎯 Adaptive practice:
   - Focuses on your challenging characters
-  - Adjusts to your skill level
+  - Thereby adjusts to your skill level
 - 📈 Detailed performance visualization:
   - Error rate analysis
   - Speed comparisons
